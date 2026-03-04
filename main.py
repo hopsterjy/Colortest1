@@ -3,6 +3,7 @@ import random
 import asyncio
 import colorsys
 
+
 def main(page: ft.Page):
     # 페이지 기본 설정
     page.title = "Kuku Kube: Pure Edition"
